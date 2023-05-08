@@ -1,8 +1,11 @@
-#E6883: PetMarket
+# E6883: PetMarket
 *The project for course ELEN 6883 Blockchain*
 
 ## Team Member
 Shichen Xu(sx2314).
+
+## Project URL
+https://github.com/chenlighten/PetMarket
 
 ## Overview
 This project presents a virtual Pet Market. It is an etherum smart contract satisfying the ERC721 standard that provides a secure, effecient, and scalable way to trade the digital pets on etherum.
